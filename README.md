@@ -5,42 +5,36 @@ https://app.powerbi.com/groups/me/dashboards/a90f194d-fd87-4dbe-a3ec-c33e47f1e1b
 This project analyzes global COVID-19 data using Power BI to uncover
 trends in cases, deaths, recovery rates, and testing across countries
 and regions.
-
- 🎯 Objectives
--   Analyze global COVID-19 spread\
--   Compare cases, deaths, and recovery rates\
--   Understand testing vs case detection\
+🎯 Objectives
+-   Analyze global COVID-19 spread
+-   Compare cases, deaths, and recovery rates
+-   Understand testing vs case detection
 -   Identify regional patterns
  🛠️ Tools & Technologies
-
--   Power BI\
--   Power Query\
+-   Power BI
+-   Power Query
 -   DAX
-
- 📂 Dataset
-Includes: - Total Cases\
-- Total Deaths\
-- Total Recovered\
-- Active Cases\
-- Tests\
-- Population\
+ Dataset
+Includes: - Total Cases
+- Total Deaths
+- Total Recovered
+- Active Cases
+- Tests
+- Population
 - WHO Region
-
- 🔧 Data Preparation
--   Cleaned missing data\
--   Fixed data types\
+🔧 Data Preparation
+-   Cleaned missing data
+-   Fixed data types
 -   Created DAX measures
-
  📈 Dashboard Features
 -   KPI cards\
--   Scatter plot (Tests vs Cases)\
--   Donut chart (WHO Region)\
--   Map visualization\
+-   Scatter plot (Tests vs Cases)
+-   Donut chart (WHO Region)
+-   Map visualization
 -   Slicers
-
- 📊 Key Insights
--   Higher testing → higher case detection\
--   Regional variation in death rates\
+📊 Key Insights
+-   Higher testing → higher case detection
+-   Regional variation in death rates
 -   Uneven global impact
 
  🚀 Outcome
