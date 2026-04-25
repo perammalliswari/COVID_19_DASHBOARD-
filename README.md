@@ -5,12 +5,14 @@ https://app.powerbi.com/groups/me/dashboards/a90f194d-fd87-4dbe-a3ec-c33e47f1e1b
 This project analyzes global COVID-19 data using Power BI to uncover
 trends in cases, deaths, recovery rates, and testing across countries
 and regions.
+
 🎯 Objectives
 -   Analyze global COVID-19 spread
 -   Compare cases, deaths, and recovery rates
 -   Understand testing vs case detection
 -   Identify regional patterns
- 🛠️ Tools & Technologies
+
+🛠️ Tools & Technologies
 -   Power BI
 -   Power Query
 -   DAX
